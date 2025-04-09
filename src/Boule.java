@@ -15,9 +15,9 @@ public class Boule extends Objet {
 	public Boule() {
 	}
 	
-	/** 
+	/**
 	 * Tire d'une boule
-	 */ 
+	 */
 	public void tireBoule() {
 	}
 	
